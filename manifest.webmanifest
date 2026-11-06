@@ -1,0 +1,13 @@
+{
+  "name": "My Heaven Choir Radio",
+  "short_name": "Heaven Radio",
+  "description": "Psalmer och böner dygnet runt.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3fb7e6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
